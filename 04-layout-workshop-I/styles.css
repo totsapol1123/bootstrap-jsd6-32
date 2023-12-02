@@ -1,0 +1,12 @@
+.box{
+    border: 1px solid red;
+    height: 200px;
+}
+.box-2{
+    border: 1px solid blue;
+    height: 100px;
+}
+
+.bg-color{
+    background-color: lightgray;
+}

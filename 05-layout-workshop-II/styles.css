@@ -1,0 +1,25 @@
+*{
+    border: 1px solid red;
+}
+
+.box{
+    height: 600px;
+    border: 1px solid blue;
+}
+.box-2{
+    height: 300px;
+    border: 1px solid blue;
+}
+
+.bg-color-v{
+    background-color: rgba(174, 43, 226, 0.705);
+}
+.bg-color-b{
+    background-color: darkblue;
+}
+.bg-color-bl{
+    background-color: black;
+}
+.bg-color-w{
+    background-color: lightgray;
+}
