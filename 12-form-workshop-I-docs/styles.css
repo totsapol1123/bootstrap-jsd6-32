@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.mar{
+   margin: 0px; 
+}
+
+.m{
+    font-size: x-small;
+}
+
+.purple{
+    background-color: #845EC2;
+}
